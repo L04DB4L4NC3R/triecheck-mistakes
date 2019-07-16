@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#do this on command line
+export GOOGLE_APPLICATION_CREDENTIALS=google.json
+nodemon app

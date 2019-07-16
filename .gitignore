@@ -1,0 +1,6 @@
+apikey.json
+node_modules
+.env
+secret.js
+uploads
+temp.txt
